@@ -16,5 +16,11 @@ public class seleniumTest {
 		System.out.println("elements");
 
 	}
+	
+	@Test
+	public void elements1() {
+		System.out.println("elements1");
+
+	}
 
 }
