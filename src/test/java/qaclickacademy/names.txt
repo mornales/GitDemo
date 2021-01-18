@@ -12,4 +12,11 @@ Numbers
 4
 5
 
+Special Chars
+!
+@
+#
+$
+
+
 
