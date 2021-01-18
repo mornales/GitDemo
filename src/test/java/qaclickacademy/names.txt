@@ -14,3 +14,10 @@ Numbers
 6
 7
 
+Special Characters
+!
+@
+#
+$
+
+
