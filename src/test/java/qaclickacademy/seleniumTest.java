@@ -34,13 +34,4 @@ public class seleniumTest {
 		System.out.println("elements3");
 
 	}
-	
-	@Test
-	public void elements4() {
-		System.out.println("elements3");
-
-	}
-	
-	
-
 }
