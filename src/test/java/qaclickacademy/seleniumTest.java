@@ -25,8 +25,16 @@ public class seleniumTest {
 	
 	@Test
 	public void elements2() {
-		System.out.println("elements1");
+		System.out.println("elements2");
 
 	}
+	
+	@Test
+	public void elements3() {
+		System.out.println("elements3");
+
+	}
+	
+	
 
 }
