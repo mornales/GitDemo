@@ -13,10 +13,4 @@ Numbers
 5
 
 
-Special Characters
-!
-@
-#
-$
-
 
